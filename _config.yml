@@ -7,20 +7,13 @@ url: # the base hostname & protocol for your site
 author: Chinmay Badjatya
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+#tiles-source: pages # accepts "posts" or "pages"
+#tiles-count: 6
 
 # social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+github_url: https://github.com/Chinmay4400
+linkedin_url: https://www.linkedin.com/in/chinmay-badjatya-675a10162
+twitter_url: https://twitter.com/Chinmay4400
 
 # build settings
 markdown: kramdown
