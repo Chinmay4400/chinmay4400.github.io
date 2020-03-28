@@ -63,12 +63,13 @@
 
 		&.actions {
 			cursor: default;
-			list-style: none;
+			list-style: block;
 			padding-left: 0;
 
 			li {
-				display: inline-block;
+				display: block;
 				padding: 0 (_size(element-margin) * 0.5) 0 0;
+				margin-top: 20px;
 				vertical-align: middle;
 
 				&:last-child {

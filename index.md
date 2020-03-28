@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Hi there, my name is Chinmay'
+description: none
 image: null
-author: null
+author: 'Chinmay Badjatya'
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+I am a third year UG student, studying Electronics and Instrumentation Engineering at Shri G.S. Institute of Technology and Science, Indore. I'm a self taught programmer, passionate about software development and I build (and break) applications leveraging the latest technologies. While I'm not tapping fingers on a keyboard, I spend my time reading and listening to Pachelbel.
