@@ -1,8 +1,7 @@
 ---
-title: Projects
+title: My Projects
 layout: projects
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+image: assets/images/projects.jpg
 nav-menu: true
 ---
 
@@ -10,29 +9,24 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-	</div>
-</section>
-
-<!-- Two -->
-<section id="two" class="spotlights">
+<section id="one" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		<a href="https://cb-covid-19-dash.herokuapp.com/" class="image">
+			<figure>
+				<img src="{% link assets/images/COVID19.jpg %}" alt="" data-position="center center" />
+				<figcaption style="font-size:15px;">
+					<a href="https://unsplash.com/photos/sIg5RzqmV3o">Photo by Eric Mclean on Unsplash</a>
+				</figcaption>
+			</figure>
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>COVID19 Situation Tracker</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>A dashboard to monitor and track the progression of COVID19 across the globe. Visualizations are based on data obtained from Centers for Disease Control, Europe.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://cb-covid-19-dash.herokuapp.com/" class="button">View Project</a></li>
 				</ul>
 			</div>
 		</div>
@@ -71,8 +65,8 @@ nav-menu: true
 	</section>
 </section>
 
-<!-- Three -->
-<section id="three">
+<!-- Two -->
+<section id="two">
 	<div class="inner">
 		<header class="major">
 			<h2>Massa libero</h2>
