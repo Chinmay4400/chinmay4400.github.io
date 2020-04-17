@@ -18,8 +18,10 @@
 	    	{% endif %}
 		{% endfor %}
 		{% for page in site.html_pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+			{% if page.layout != "home" and page.nav-menu == true %}
+				{% if page.title == "My Projects" or page.title == "My Blog" or page.title == "Home"%}
+					<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+				{% endif %}
 		    {% endif %}
 		{% endfor %}
 	</ul>

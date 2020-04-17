@@ -8,4 +8,5 @@ author: 'Chinmay Badjatya'
 show_tile: false
 ---
 
-I am a third year UG student, studying Electronics and Instrumentation Engineering at Shri G.S. Institute of Technology and Science, Indore. I'm a self taught programmer, passionate about software development and I build (and break) applications leveraging the latest technologies. While I'm not tapping fingers on a keyboard, I spend my time reading and listening to Pachelbel.
+I am a third year UG student, studying Electronics and Instrumentation Engineering at Shri G.S. Institute of Technology and Science, Indore. 
+I specialize in data science and scientific computing.

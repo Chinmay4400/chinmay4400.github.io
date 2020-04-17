@@ -31,7 +31,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
+	<!-- <section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
@@ -62,11 +62,11 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section> -->
 </section>
 
 <!-- Two -->
-<section id="two">
+<!-- <section id="two">
 	<div class="inner">
 		<header class="major">
 			<h2>Massa libero</h2>
@@ -76,6 +76,5 @@ nav-menu: true
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
-
+</section> -->
 </div>
