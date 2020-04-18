@@ -19,7 +19,7 @@
                 <h1>{{ page.landing-title }}</h1>
             </header>
             <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
+                <h4 style="text-transform: uppercase;">{{ site.description }}</h4>
                 <!-- <ul class="actions">
                     <li><a href="#one" class="button next scrolly">Get Started</a></li>
                 </ul> -->
@@ -30,33 +30,13 @@
     <!-- Main -->
     <div id="main">
 
-        <!-- One -->
         {% include tiles.html %}
 
-        <!-- Two -->
-        <section id="two">
-            <div class="inner">
-                <header class="major">
-                    <h2>About Me</h2>
-                </header>
-                <p>{{ content }}</p>
-                <!-- <ul class="actions">
-                    <li><a href="landing.html" class="button next">Get Started</a></li>
-                </ul> -->
-            </div>
-        </section>
-        <section id="three">
-            <div class="inner">
-                <h4>Here's what I've been up to</h4>
-                <ul class="actions" >
-                    <li><a href="projects.html" class="button">My Projects</a></li>
-                    <li><a href="posts.html" class="button">My Blog</a></li>
-                </ul>
-            </div>
-        </section>
-    </div>
+        {{ content }}
 
     {% include footer.html %}
+
+    </div>
 
 </body>
 

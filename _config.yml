@@ -1,7 +1,7 @@
 # site settings
 title: Chinmay Badjatya
 email: badjatyachinmay@gmail.com
-description: I see you've found my portfolio. Here, I talk about my projects and blog about tech I'm lately obsessed with. Go ahead, check it out!
+description: I'm a computer programmer, bibliophile and an overall awesome guy
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Chinmay Badjatya
